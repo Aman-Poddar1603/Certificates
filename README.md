@@ -28,5 +28,16 @@ Each certificate is available in the repository under the `certificates/` folder
 
 ---
 
+📊 Data Science and Analytics – HP Life
+This certificate marks my completion of the HP Life Data Science and Analytics course, where I learned foundational techniques in:
+- Data collection and cleaning
+- Statistical analysis
+- Visualization and storytelling
+- Decision-making using data
+🧠 This course strengthened my approach to creating data dashboards and troubleshooting code, aligning perfectly with my work in Power BI, Tableau, and HTML.
+I see this certificate as a symbol of growth—not just in technical knowledge, but in the mindset of thinking through problems, drawing insights, and delivering impact.
+---
+
+
 Thanks for stopping by!  
 🌱 *Learning never stops—and neither do I.*
