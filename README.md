@@ -38,6 +38,13 @@ This certificate marks my completion of the HP Life Data Science and Analytics c
 I see this certificate as a symbol of growth—not just in technical knowledge, but in the mindset of thinking through problems, drawing insights, and delivering impact.
 ---
 
+### 🏆 Latest Achievement: Python using AI
+
+I’m proud to share that I’ve earned a certificate from **AI for Techies** in *Python using AI*. This milestone reflects my growing passion for combining 
+Python programming with intelligent systems to solve real-world problems. From developing visual dashboards to writing smarter code,
+this achievement fuels my commitment to exploring innovative tech solutions. 
+
+Feel free to check out my other certifications in this repository — each one marks a step on my journey as a tech enthusiast and lifelong learner.
 
 Thanks for stopping by!  
 🌱 *Learning never stops—and neither do I.*
