@@ -50,5 +50,16 @@ Thrilled to share another milestone in my learning journey! I’ve successfully 
 📨 As I grow in the data and tech domain, being able to articulate insights through well-structured emails is just as vital as building dashboards or writing code. This certificate represents my commitment to strong, professional communication alongside technical excellence.
 Proud to keep learning, improving, and connecting with purpose! 
 
+                                              **************************************
+
+  ## 🧠 Master SQL Workshop
+
+I’m thrilled to announce the completion of my **Master SQL Workshop** certification! This achievement deepens my expertise in writing efficient queries, managing relational databases, and solving real-world data problems. SQL isn’t just a skill—it’s the language that lets data speak, and this workshop has sharpened my ability to interpret that story with precision and clarity.
+
+Adding to a growing collection that reflects my commitment to continuous learning and applied excellence in data analytics.
+
+Whether it's connecting Power BI dashboards to SQL queries or optimizing performance with advanced techniques, I’m excited to put this knowledge into action across my projects.     
+
+
 Thanks for stopping by!  
 🌱 *Learning never stops—and neither do I.*
