@@ -58,7 +58,13 @@ I’m thrilled to announce the completion of my **Master SQL Workshop** certific
 
 Adding to a growing collection that reflects my commitment to continuous learning and applied excellence in data analytics.
 
-Whether it's connecting Power BI dashboards to SQL queries or optimizing performance with advanced techniques, I’m excited to put this knowledge into action across my projects.     
+Whether it's connecting Power BI dashboards to SQL queries or optimizing performance with advanced techniques, I’m excited to put this knowledge into action across my projects.   
+
+                                             ************************************
+
+I’m excited to share that I have successfully completed the 30 Days of Python with AI Projects certification.
+
+This journey was not just about learning Python syntax, but also about applying it in real-world AI-based projects — from automation to intelligent problem-solving. It helped me strengthen my foundations in Python and also explore how Artificial Intelligence can be integrated into practical solutions.
 
 
 Thanks for stopping by!  
